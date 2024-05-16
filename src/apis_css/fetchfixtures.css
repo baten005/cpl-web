@@ -1,0 +1,6 @@
+.mr-2,.ml-2{
+    height:50px;
+    width: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+}

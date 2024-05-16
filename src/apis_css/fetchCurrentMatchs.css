@@ -1,0 +1,35 @@
+.mt-5{
+    margin: auto;
+}
+.row{
+    justify-content: center;
+}
+.w-100{
+    margin-right: 5px;
+}
+
+.team-name{
+    font-size: 2rem;
+}
+.mx-2{
+    margin: 0 5px 0 0;
+}
+.form-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    justify-content: center;
+  }
+  
+  .form {
+    width: 50%;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a box shadow */
+  }
+  
+  
+  

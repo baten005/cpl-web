@@ -1,0 +1,19 @@
+.player-list {
+    display: grid;
+  }
+
+.player{
+    text-align: left;
+}
+  
+img{
+    width: 30px;
+    height:30px;
+    object-fit: cover;
+    border-radius: 15px;
+    margin-left: 5px;
+}
+.form-check{
+    padding:5px 0 5px 0;
+    margin-left: 10px;
+}

@@ -1,0 +1,17 @@
+#baten{
+    height: 20rem;
+    width: 15rem;
+    object-fit: cover;
+  
+
+}
+
+#header_text{
+    justify-content: left;
+}
+#header_text h1{
+    margin-left: 5rem;
+}
+#admin_sidebar{
+    display: block;
+}
